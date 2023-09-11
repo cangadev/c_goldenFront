@@ -1,4 +1,43 @@
 # c_goldenFront
+Condominio Golden website, created with the aim of improving the condominium's service provision for its customers.
+<br>
+Functionalities:
+<br><br>
+CUSTOMERS:<br>
+Allows you to register<br>
+Allows Login<br>
+Allows you to view condominium information<br>
+Allows you to view Apartment information<br>
+-Photos<br>
+-category<br>
+-prices<br>
+Allows you to book an Apartment<br>
+Allows you to view reservations<br>
+Allows you to cancel reservation<br>
+Allows you to see contracts in progress<br>
+Allows you to register complaints<br>
+<br><br>
+
+ADMIN<br>
+<br>
+Allows Login<br>
+Allows CRUD condominium information<br>
+Allows CRUD apartments<br>
+Allows you to view schedules<br>
+Allows you to generate a contract<br>
+Allows CRUD posts<br>
+Allows you to view the report<br>
+<br>
+<br>
+
+Did you like c_goldenFront?
+<br>
+Leave a star and follow me
+<br>
+<br>
+
+============= pt ============ <br><br>
+
 Condominio Golden <br>
 Web site do Condominio Golden, feito com finalidade de melhorar a prestação de serviço do condominio para os seus clientes.
 <br><br>
