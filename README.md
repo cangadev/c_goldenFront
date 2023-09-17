@@ -4,7 +4,7 @@ Condominio Golden website, created with the aim of improving the condominium's s
 Functionalities:
 <br><br>
 CUSTOMERS:<br>
-Allows you to register<br>
+Allows you to register<br> 
 Allows Login<br>
 Allows you to view condominium information<br>
 Allows you to view Apartment information<br>
