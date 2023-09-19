@@ -5,7 +5,7 @@ Functionalities:
 <br><br>
 CUSTOMERS:<br>
 Allows you to register<br> 
-Allows Login<br>
+Allows Login<br> 
 Allows you to view condominium information<br>
 Allows you to view Apartment information<br>
 -Photos<br>
