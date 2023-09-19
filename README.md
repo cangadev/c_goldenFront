@@ -16,7 +16,7 @@ Allows you to view reservations<br>
 Allows you to cancel reservation<br>
 Allows you to see contracts in progress<br>
 Allows you to register complaints<br>
-<br><br>
+<br><br> 
 
 ADMIN<br>
 <br>
