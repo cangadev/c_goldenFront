@@ -9,7 +9,7 @@ Allows Login<br>
 Allows you to view condominium information<br>
 Allows you to view Apartment information<br>
 -Photos<br>
--category<br>
+-category<br> 
 -prices<br>
 Allows you to book an Apartment<br>
 Allows you to view reservations<br>
